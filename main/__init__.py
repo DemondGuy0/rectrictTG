@@ -15,7 +15,7 @@ logging.basicConfig(format='[%(levelname) 5s/%(asctime)s] %(name)s: %(message)s'
 API_ID = config("12569968", default=None, cast=int)
 API_HASH = config("2d5b54d8745cab19f3bf12cfd77c4897", default=None)
 BOT_TOKEN = config("5867281966:AAEfBMW4rj8J1g5e8AvqM2RVIVouHD0iYqU", default=None)
-SESSION = config("UploadOne", default=None)
+SESSION = config("killerj00", default=None)
 FORCESUB = config("FORCESUB", default=None)
 AUTH = config("5360325865", default=None, cast=int)
 
